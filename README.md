@@ -1,2 +1,2 @@
 # auto_test
-stepik autotests course 
+stepik autotests course
